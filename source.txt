@@ -1,0 +1,10 @@
+Cocacola      1
+Sprite        2
+Snikers       3
+Mars          4
+Fanta         5
+Jupiter       6
+Horizont      7
+tools         8
+Kitikate      9
+Kekw          10
